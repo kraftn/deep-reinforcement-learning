@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+.idea/
+__pycache__/
+
+/hw[0-9]/histories/
+/hw[0-9]/agents/

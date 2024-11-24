@@ -1,0 +1,5 @@
+gym[toy_text, box2d]==0.24.0
+matplotlib==3.9.2
+tqdm==4.67.0
+numpy==1.23.5
+torch==2.5.1
